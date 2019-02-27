@@ -9,3 +9,14 @@ Paraphrase the contents To be done. don't be perfect at the beginning. because y
 ### 2019-02-24
 crash review for numpy with parctice
 https://www.machinelearningplus.com/python/101-numpy-exercises-python/
+
+
+### 2019-02-28
+Tips for Deep Reinforcement learning
+- Best resource: [Spinning Up in Deep RL] (https://spinningup.openai.com/en/latest/index.html), include workshop in youtube.
+- other online course on udacity and udemy.     Watch it at 2x.
+- Take handwritten notes. This will drastically increase your ability to retain the information.
+- Write down the equations. If you don't, I guarantee it will just look like gibberish.
+- Ask lots of questions on the discussion board. The more the better!
+- Be prepared, Realize that most exercises will take you days or weeks to complete.
+- Keep coding! Write code, don't just sit there and look at my code.
