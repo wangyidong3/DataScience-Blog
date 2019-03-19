@@ -54,3 +54,17 @@ Deployment for ML
 Deep RL
 1. paper reading  (recommanded by spinning up)
 2. Deep RL spinning up workshop (youtube: https://www.youtube.com/watch?v=fdY7dt3ijgY&t=6753s)
+
+
+### 2019-03-19
+The point of deep learning frameworks
+(1) Easily build big computational graphs
+(2) Easily compute gradients in computational graphs
+(3) Run it all efficiently on GPU (wrap cuDNN, cuBLAS, etc)
+
+
+#### Thought 
+- The one of the advantages of Computational Graphs is that it is more suitable for computation of gradients
+- numpy vs tensorflow vs pytorch:  focus on the implement of Computational Graphs.
+numpy can run on the gpu.  tensorflow use the static computatuional graphs. pytorch use dynmatic graphhs.
+- 
