@@ -67,4 +67,3 @@ The point of deep learning frameworks
 - The one of the advantages of Computational Graphs is that it is more suitable for computation of gradients
 - numpy vs tensorflow vs pytorch:  focus on the implement of Computational Graphs.
 numpy can run on the gpu.  tensorflow use the static computatuional graphs. pytorch use dynmatic graphhs.
-- 
