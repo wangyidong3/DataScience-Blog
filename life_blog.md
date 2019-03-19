@@ -12,7 +12,7 @@ https://www.machinelearningplus.com/python/101-numpy-exercises-python/
 
 
 ### 2019-02-28
-Tips for Deep Reinforcement learning
+Tips for Deep Reinforcement learning:
 - Best resource: [Spinning Up in Deep RL] (https://spinningup.openai.com/en/latest/index.html), include workshop in youtube.
 - other online course on udacity and udemy.     Watch it at 2x.
 - Take handwritten notes. This will drastically increase your ability to retain the information.
@@ -20,3 +20,37 @@ Tips for Deep Reinforcement learning
 - Ask lots of questions on the discussion board. The more the better!
 - Be prepared, Realize that most exercises will take you days or weeks to complete.
 - Keep coding! Write code, don't just sit there and look at my code.
+
+### 2019-03-04
+Machine learning Deployment
+1. Build package for the predection model.
+2. RESTful API.
+3. Flask crash course 
+4. API schema validation. 
+
+Deep RL
+1. Resource collection
+
+
+### 2019-03-05
+Deployment for ML
+1. Deploy to PaaS (without container)
+Deep RL 
+1. random search implement on OpenAI gym.  It is the basic Reinforcement learning idea and demo.
+
+
+
+### 2019-03-06
+Deployment for ML
+1. Coninuious Integration tool: CircleCI vs Jenkins
+2. pytest usage: easy & good tool for UT
+3. make Docker  file for Model
+
+
+### 2019-03-07
+Deployment for ML
+1. Deply to IAAS (AWS ECS)
+
+Deep RL
+1. paper reading  (recommanded by spinning up)
+2. Deep RL spinning up workshop (youtube: https://www.youtube.com/watch?v=fdY7dt3ijgY&t=6753s)
